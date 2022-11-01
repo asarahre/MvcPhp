@@ -2,7 +2,6 @@
 
 namespace app\traits;
 
-use PDO;
 use PDOException;
 
 trait Update
